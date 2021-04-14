@@ -66,7 +66,7 @@ Finally, the hands-on experience will give them the confidence to apply those to
 
 # Previous editions
 
-I taught tutorials on similar topics at the Applied Machine Learning Days ([slides](https://doi.org/10.5281/zenodo.2551081), [github](https://github.com/rodrigo-pena/amld2019-graph-workshopa), [conference](https://appliedmldays.org/events/amld-epfl-2019/workshops/learning-and-processing-over-networks)) and at the GraphSIP summer school ([github](https://github.com/mdeff/pygsp_tutorial_graphsip), [summer school](https://graphsip.sciencesconf.org)).
+I taught tutorials on similar topics at the Applied Machine Learning Days ([slides](https://doi.org/10.5281/zenodo.2551081), [github](https://github.com/rodrigo-pena/amld2019-graph-workshop), [conference](https://appliedmldays.org/events/amld-epfl-2019/workshops/learning-and-processing-over-networks)) and at the GraphSIP summer school ([github](https://github.com/mdeff/pygsp_tutorial_graphsip), [summer school](https://graphsip.sciencesconf.org)).
 I managed and co-taught a course at EPFL for four years ([2019](https://github.com/mdeff/ntds_2019), [2018](https://github.com/mdeff/ntds_2018), [2017](https://github.com/mdeff/ntds_2017), [2016](https://github.com/mdeff/ntds_2016)).
 I also maintain the [PyGSP](https://pygsp.rtfd.io/), a python package for graph signal processing, which contains tutorials and examples.
 
