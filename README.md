@@ -13,3 +13,7 @@ A hands-on tutorial presented by [Michaël Defferrard](https://deff.ch) at [The 
 **Intended audience**: people with theoretical or practical interests about graphs and data on graphs. Adapted to both researchers and practitioners.
 
 **Prerequisite knowledge**: scientific python programming, basic linear algebra, no prior knowledge about networks is necessary.
+
+## License
+
+The content is released under the terms of the [MIT License](LICENSE.txt).
