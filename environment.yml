@@ -7,3 +7,5 @@ dependencies:
   - scipy
   - matplotlib-base
   - jupyterlab
+  - pip:
+    - git+https://github.com/epfl-lts2/pygsp
