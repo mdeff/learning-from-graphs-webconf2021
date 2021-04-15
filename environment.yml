@@ -1,0 +1,9 @@
+name: learning-from-graphs-webconf2021
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib-base
+  - jupyterlab
