@@ -53,7 +53,7 @@ Every time you want to work, do the following:
 [python]: https://www.python.org
 [jupyter]: https://jupyter.org
 [scipy]: https://www.scipy.org
-[anaconda]: https://www.anaconda.com/download
+[anaconda]: https://www.anaconda.com/products/individual
 [miniconda]: https://conda.io/miniconda.html
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
